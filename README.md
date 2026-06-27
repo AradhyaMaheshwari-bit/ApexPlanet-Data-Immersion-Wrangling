@@ -61,11 +61,21 @@ The objective of this project is to understand the dataset, identify data qualit
 
 ---
 
-## 📁 Project Files
+## 📂 Project Structure
 
-- `ApexPlanet_DataAnalytics_Dataset.xlsx`
-- `Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx`
-- `Data_Cleaning.py`
+```text
+ApexPlanet-Data-Immersion-Wrangling/
+│
+├── README.md
+├── Data_Cleaning.py
+├── ApexPlanet_DataAnalytics_Dataset.xlsx
+├── Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx
+├── ApexPlanet_Executive_Dashboard.html
+└── Screenshots/
+    ├── Dashboard.png
+    ├── MissingValues.png
+    └── DuplicateCheck.png
+```
 
 ---
 
