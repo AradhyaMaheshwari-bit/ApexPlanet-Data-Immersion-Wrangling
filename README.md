@@ -1,8 +1,6 @@
-# 📊 ApexPlanet Internship – Task 1: Data Immersion & Wrangling
+# 📊 Data Immersion & Wrangling
 
 ## 📌 Project Overview
-
-This project was completed as part of the **ApexPlanet Data Analytics Internship – Task 1**.
 
 The objective of this task is to understand the provided sales dataset, identify data quality issues, clean and transform the data, and prepare an analysis-ready dataset using **Python** and **Pandas**.
 
@@ -39,9 +37,9 @@ ApexPlanet-Data-Immersion-Wrangling/
 ├── README.md
 ├── Data_Cleaning.py
 ├── Data_Dictionary.xlsx
-├── ApexPlanet_DataAnalytics_Dataset.xlsx
-├── Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx
-├── ApexPlanet_Executive_Dashboard.html
+├── Dataset.xlsx
+├── Cleaned_Dataset.xlsx
+├── Executive_Dashboard.html
 │
 └── Screenshots/
     ├── Dashboard.png
@@ -123,7 +121,7 @@ Created new columns:
 Generated a cleaned dataset:
 
 ```
-Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx
+Cleaned_Dataset.xlsx
 ```
 
 ---
@@ -133,7 +131,7 @@ Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx
 1. Clone the repository
 
 ```
-git clone https://github.com/AradhyaMaheshwari-bit/ApexPlanet-Data-Immersion-Wrangling.git
+git clone https://github.com/AradhyaMaheshwari-bit/Data-Immersion-Wrangling.git
 ```
 
 2. Install dependencies
@@ -167,7 +165,7 @@ The dashboard includes:
 Dashboard file:
 
 ```
-ApexPlanet_Executive_Dashboard.html
+Executive_Dashboard.html
 ```
 
 ---
@@ -219,11 +217,3 @@ https://github.com/AradhyaMaheshwari-bit
 
 LinkedIn:
 https://www.linkedin.com/in/aradhya-maheshwari/
-
----
-
-# ⭐ Acknowledgement
-
-This project was completed as part of the **ApexPlanet Software Pvt. Ltd. Data Analytics Internship Program**.
-
-Thank you for reviewing my project.
