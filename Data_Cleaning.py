@@ -1,5 +1,4 @@
 """
-ApexPlanet Internship - Task 1
 Data Immersion & Wrangling
 
 Author: Aradhya Maheshwari
@@ -11,7 +10,7 @@ Data Analytics dataset using Python and Pandas.
 import pandas as pd
 
 # Load the dataset
-df = pd.read_excel("ApexPlanet_DataAnalytics_Dataset.xlsx")
+df = pd.read_excel("Dataset.xlsx")
 
 # -----------------------------
 # 1. Display basic information
@@ -75,7 +74,7 @@ df.drop(columns=['Calculated_Sales'], inplace=True)
 # -----------------------------
 # 7. Save Cleaned Dataset
 # -----------------------------
-df.to_excel("Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx", index=False)
+df.to_excel("Cleaned_Dataset.xlsx", index=False)
 
 print("\nData cleaning completed successfully!")
-print("Cleaned dataset saved as 'Cleaned_ApexPlanet_DataAnalytics_Dataset.xlsx'")
+print("Cleaned dataset saved as 'Cleaned_Dataset.xlsx'")
